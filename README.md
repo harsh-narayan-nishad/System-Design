@@ -26,7 +26,7 @@
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <b><i>Learning while HOPING &amp; HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50">
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="akash-chowrasia"> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-narayan-nishad&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="harsh-narayan-nishad"> </p>
 <img align="right" width="300px" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif">
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></p>
 <p>✔ Pronouns: <em><strong>He/His</strong></em> or <em><strong>TeamMaker</strong></em>😉 <br>
@@ -51,7 +51,7 @@
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
-<code> <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>
+<code> <img height="50" src="https://github.com/harsh-narayan-nishad/harsh-narayan-nishad/blob/main/images/flask.svg"> </code>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
@@ -63,8 +63,8 @@
   <hr>
   <p align="center">
  <!-- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status">&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="akash-chowrasia"></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-chowrasia&amp;show_icons=true&amp;locale=en" alt="akash-chowrasia" width="410"></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-narayan-nishad&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="harsh-narayan-nishad"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-narayan-nishad&amp;show_icons=true&amp;locale=en" alt="harsh-narayan-nishad" width="410"></p> -->
 
 <p align="center">
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status">&nbsp;
@@ -109,5 +109,5 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30">
 </div>
 
-<p>Credits: <a href="https://github.com/Akash-chowrasia">Akash chowrasia</a></p>
+<p>Credits: <a href="https://github.com/harsh-narayan-nishad">Akash chowrasia</a></p>
 <p>Last Edited on: 22/02/2021</p> 
