@@ -30,4 +30,4 @@ public class LiskovExample {
             return this.price - (discountPercent * 0.01 * this.price);
         }
     }
-};
+}
