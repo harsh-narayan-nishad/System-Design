@@ -1,4 +1,4 @@
-//Example 2 -> NotUnderstanding
+//Example 2 -> DOUBT
 const sendNewsletter = (book) => {
     let content = ""; // Declare once outside the switch
   
