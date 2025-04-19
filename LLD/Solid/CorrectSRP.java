@@ -1,0 +1,44 @@
+package Solid;
+
+public class CorrectSRP {
+    class Marker{
+        String name;
+        String color;
+        int year;
+        int price;
+        
+        public Marker(String name, String color, int year , int price){
+            this.name = name;
+            this.color = color;
+            this.year = year;
+            this.price = price;        
+        }
+    }
+
+    class Invoice {
+        private Marker marker;
+        private int quantity;
+
+        public Invoice(Marker marker, int quantity){
+            this.marker = marker;
+            this.quantity = quantity;
+        }
+        //could chagnge only- 1
+        public int calculateTotal(){
+            int price = ((marker.price)* this.quantity);
+            return price;
+        }
+    }
+
+    class InvoiceDao {
+        Invoice invoice;
+
+        public InvoiceDao(Invoice invoice){
+            this.invoice = invoice;
+        }
+        
+        public void saveToDB(){
+            // Save data into DB
+        }
+    }
+}
